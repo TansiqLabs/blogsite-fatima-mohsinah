@@ -5,8 +5,8 @@ const siteMetadata = {
   headerTitle: 'Fatima Mohsinah',
   description: 'Personal blog of Fatima Mohsinah',
   language: 'en-us',
-  theme: 'system', // system, dark or light
-  siteUrl: 'http://localhost:3000',
+  theme: 'light', // system, dark or light
+  siteUrl: 'https://fatima.azabulhaque.com',
   siteRepo: 'https://github.com/TansiqLabs/blogsite-fatima-mohsinah/',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
